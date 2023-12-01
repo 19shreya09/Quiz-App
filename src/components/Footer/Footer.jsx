@@ -8,11 +8,11 @@ export const Footer = () => {
         <span role="img" aria-label="Love">
           ❤️
         </span>{" "}
-        by Prakash Sakari
+        by Shreya Gupta
       </p>
       <div className="d-flex gap align-center padding-all-8">
         <a
-          href="https://github.com/prakashsakari/"
+          href="https://github.com/19shreya09"
           className="link"
           target="_blank"
           rel="noreferrer"
@@ -23,20 +23,9 @@ export const Footer = () => {
             alt="GitHub"
           />
         </a>
+       
         <a
-          href="https://twitter.com/prakashsakari"
-          className="link"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            className="source-image"
-            src="https://therightfit.netlify.app/assets/twitter.png"
-            alt="Twitter"
-          />
-        </a>
-        <a
-          href="https://www.linkedin.com/in/prakashsakari/"
+          href="https://www.linkedin.com/in/shreya-gupta-a01a36221/"
           className="link"
           target="_blank"
           rel="noreferrer"
