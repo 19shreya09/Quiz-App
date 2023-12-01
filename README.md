@@ -46,7 +46,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/prakashsakari/goovy-quiz.git
+  git clone https://github.com/19shreya09/Quiz-App.git
 ```
 
 Go to the project directory
