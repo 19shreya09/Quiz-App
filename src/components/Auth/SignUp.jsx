@@ -37,7 +37,7 @@ export const AuthSignUp = () => {
           <input
             type="email"
             className="form-input lh-ls"
-            placeholder="Prakash"
+            placeholder="Shreya"
           />
         </div>
         <div className="form-container">
@@ -45,7 +45,7 @@ export const AuthSignUp = () => {
           <input
             type="email"
             className="form-input lh-ls"
-            placeholder="Sakari"
+            placeholder="Gupta"
           />
         </div>
 
