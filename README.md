@@ -33,30 +33,11 @@ Signup
 
 
 
-
-
-
-
-
-
 ## Tech Stack
 
 - HTML/CSS with [LightUi](https://uilight.netlify.app/) Component Library
 - ReactJS
 - Mockbee for backend
-
-
-## Author
-
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
-
-
-## Live Link
-
-https://groovyquiz.netlify.app/
 
 
 ## Run Locally
@@ -86,9 +67,5 @@ Start the server
   npm start
 ```
 
-## Screen shot
-![quiz-1](https://user-images.githubusercontent.com/80476561/162255754-68ba2fc5-863a-4469-9406-f899851b7219.png)
-![quiz-2](https://user-images.githubusercontent.com/80476561/162255757-46d765e8-9e8a-4fa8-9794-957fb5a09301.png)
-![quiz-3](https://user-images.githubusercontent.com/80476561/162255758-8bab20cb-1aeb-4a05-add8-67ff8d86d6f6.png)
-![quiz-4](https://user-images.githubusercontent.com/80476561/162255760-06c849ee-568e-48b6-99a1-fcdcb06e504c.png)
+
 
